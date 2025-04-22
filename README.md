@@ -7,7 +7,8 @@ A super simple Python app that greets the user!
 When you run the app, it asks for your name and says hello.
 
 ### Example:
-
+Enter your name: akanksha
+Hello, akanksha!
 
 ## How to Run
 
